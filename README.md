@@ -1,4 +1,13 @@
+Hi, my name is Fernanda Amancio.
+This is my Github Page project created with React. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+GitHub Page preview:
+
+![alt test](src/assets/preview.png)
+
 
 ## Available Scripts
 
